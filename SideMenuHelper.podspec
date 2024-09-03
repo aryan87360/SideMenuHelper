@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/yourusername/SideMenuHelper'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Your Name' => 'youremail@example.com' }
-  s.source           = { :git => 'https://github.com/yourusername/SideMenuHelper.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/aryan87360/SideMenuHelper.git', :tag => s.version.to_s }
   s.ios.deployment_target = '12.0'
   s.source_files     = 'SideMenuHelperFramework/**/*.{swift,h,m}'
   s.frameworks       = 'UIKit'
